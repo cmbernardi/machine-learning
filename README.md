@@ -1,6 +1,6 @@
 # Machine Learning 
 
-Supervised and Unsupervised Learning.
+Supervised and Unsupervised Learning explained.
 
 - Clustering Models
 - Regression Models
