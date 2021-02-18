@@ -1,6 +1,10 @@
 # Machine Learning 
 
-Exercises for practicing Machine Learning Models.
+Supervised and Unsupervised Learning.
+
+- Clustering Models
+- Regression Models
+- Classification Models
 
 ## Tools:
 
