@@ -13,3 +13,4 @@ Supervised and Unsupervised Learning explained.
 * Matplotlib
 * Seaborn
 * Scikit-learn
+* StatsModel
