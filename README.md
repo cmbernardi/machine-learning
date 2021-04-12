@@ -5,6 +5,7 @@ Supervised and Unsupervised Learning explained.
 - Clustering Models
 - Regression Models
 - Classification Models
+- Genetic Algorithm
 
 ## Tools:
 
